@@ -221,7 +221,7 @@ let headContent = `
         position: fixed;
         font-style: italic;
         bottom: 20px;
-        left: 20px;
+        right: 20px;
         background-color: #f8f9fa;
         color: #333;
         padding: 10px 15px;
