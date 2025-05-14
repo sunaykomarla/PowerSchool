@@ -385,7 +385,7 @@ script.textContent = policy.createScript(scriptContent);
 info.document.head.appendChild(script);
 
 let footerContent = `
-  <div class="names">Made by Sunay with a little help from Drew</div>
+  <div class="names">Made by Sunay</div>
 `;
 
 if (!isEmpty(categoryScores)) {
